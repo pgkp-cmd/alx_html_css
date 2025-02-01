@@ -46,22 +46,11 @@ body {
 }
 
 .header-hero header nav img {
-  /**margin-top: 0;
-  justify-content: flex-start;
-  flex-direction: row;
-  align-items: center;**/
   display: block;
   position: relative;
-  /**width: 150px;
-  height: 50px;**/
   padding-right: 15px;
   padding-left: 15px;
-  /**font-size: 2em;**/
-  /**margin: .67em 0;
-  font-weight: 500;
-  line-height: 1.2;
-  text-decoration: none;
-  background-size: cover;**/
+  
   margin-right: 1rem !important;
 }
 
@@ -513,7 +502,6 @@ section.videos div.rating {
 }
 
 section.videos div.rating img {
-  /**width: 15px;**/
   height: 15px;
   margin: o auto;
   border-style: none;
@@ -694,51 +682,7 @@ section.videos div.v-footer p {
   color: #343a40;
 }
 
-/**footer {
-  background-color: var(--colorprimary);
-  min-height: 249px;
-}
 
-.footer_piece {
-  color: #fff;
-  padding-bottom: 3rem;
-  padding-top: 60px !important;
-  justify-content: space-around;
-  flex-direction: row;
-  align-items: center;
-  display: flex;
-  padding-left: 15px;
-  vertical-align: middle;
-}
-
-.footer_logo {
-  padding-right: .5rem;
-  position: relative;
-  padding-left: 15px;
-  vertical-align: middle;
-}
-
-.footer_links {
-  padding-right: 0;
-  margin-top: 0;
-}
-
-.footer_links a {
-  text-decoration: none;
-  background-color: transparent;
-  color: #007bff;
-}
-
-.footer_links a i {
-  font-family: icon;
-  font-style: normal;
-  text-transform: none;
-  line-height: 1;
-  font-size: 2rem;
-  color: white;
-  margin-left: .5rem;
-  margin-right: .5rem;
-}**/
 
 footer {
   background-color: var(--colorprimary);
@@ -753,7 +697,6 @@ footer {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  /**max-width: 1200px;**/
   min-height: 249px;
   margin: 0 auto;
   padding: 0 2rem;
